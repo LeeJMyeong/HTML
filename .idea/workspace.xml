@@ -11,7 +11,9 @@
   <component name="ChangeListManager">
     <list default="true" id="eafe4e0f-3d3b-4e5b-97d2-973d2925329d" name="변경" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/palydata/todos/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/palydata/todos/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/palydata/todos/dto/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/palydata/todos/dto/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/palydata/todos/servlet/MainServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/palydata/todos/servlet/MainServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
