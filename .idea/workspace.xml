@@ -9,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="234a8b37-4fac-4e8e-ac50-b507c65a27c0" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="234a8b37-4fac-4e8e-ac50-b507c65a27c0" name="변경" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +21,8 @@
         <option value="package-info" />
         <option value="HTML File" />
         <option value="Class" />
+        <option value="Jsp File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -51,6 +51,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,6 +68,11 @@
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/css" />
+    </key>
+  </component>
   <component name="RunManager" selected="Tomcat 서버.Tomcat 9.0.76">
     <configuration name="console.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
       <script-mode>FILE</script-mode>
